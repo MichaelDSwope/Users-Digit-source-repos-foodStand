@@ -1,0 +1,15 @@
+C:\Users\Digit\source\repos\foodStand\foodStand\obj\Debug\net6.0\vendingMachine.csproj.AssemblyReference.cache
+C:\Users\Digit\source\repos\foodStand\foodStand\obj\Debug\net6.0\vendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Digit\source\repos\foodStand\foodStand\obj\Debug\net6.0\vendingMachine.AssemblyInfoInputs.cache
+C:\Users\Digit\source\repos\foodStand\foodStand\obj\Debug\net6.0\vendingMachine.AssemblyInfo.cs
+C:\Users\Digit\source\repos\foodStand\foodStand\obj\Debug\net6.0\vendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\Digit\source\repos\foodStand\foodStand\bin\Debug\net6.0\vendingMachine.exe
+C:\Users\Digit\source\repos\foodStand\foodStand\bin\Debug\net6.0\vendingMachine.deps.json
+C:\Users\Digit\source\repos\foodStand\foodStand\bin\Debug\net6.0\vendingMachine.runtimeconfig.json
+C:\Users\Digit\source\repos\foodStand\foodStand\bin\Debug\net6.0\vendingMachine.dll
+C:\Users\Digit\source\repos\foodStand\foodStand\bin\Debug\net6.0\vendingMachine.pdb
+C:\Users\Digit\source\repos\foodStand\foodStand\obj\Debug\net6.0\vendingMachine.dll
+C:\Users\Digit\source\repos\foodStand\foodStand\obj\Debug\net6.0\refint\vendingMachine.dll
+C:\Users\Digit\source\repos\foodStand\foodStand\obj\Debug\net6.0\vendingMachine.pdb
+C:\Users\Digit\source\repos\foodStand\foodStand\obj\Debug\net6.0\vendingMachine.genruntimeconfig.cache
+C:\Users\Digit\source\repos\foodStand\foodStand\obj\Debug\net6.0\ref\vendingMachine.dll

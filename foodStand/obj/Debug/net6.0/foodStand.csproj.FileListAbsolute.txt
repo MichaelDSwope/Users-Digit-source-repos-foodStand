@@ -1,0 +1,5 @@
+C:\Users\Digit\source\repos\foodStand\foodStand\obj\Debug\net6.0\foodStand.csproj.AssemblyReference.cache
+C:\Users\Digit\source\repos\foodStand\foodStand\obj\Debug\net6.0\foodStand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Digit\source\repos\foodStand\foodStand\obj\Debug\net6.0\foodStand.AssemblyInfoInputs.cache
+C:\Users\Digit\source\repos\foodStand\foodStand\obj\Debug\net6.0\foodStand.AssemblyInfo.cs
+C:\Users\Digit\source\repos\foodStand\foodStand\obj\Debug\net6.0\foodStand.csproj.CoreCompileInputs.cache
